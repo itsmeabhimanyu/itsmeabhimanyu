@@ -54,13 +54,6 @@ Passionate about building modern, scalable web applications with clean code and 
 
 ---
 
-## 📊 GitHub Stats
-
-![Abhimanyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhimanyushah&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyushah&layout=compact&theme=radical)
-
----
-
 ## 🐍 GitHub Contribution Snake
 
 <picture>
